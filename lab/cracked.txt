@@ -1,0 +1,10 @@
+--- Password Cracking Results ---
+Timestamp: 1775643767.000169
+
+[MD5] e10adc3949ba59abbe56e057f20f883e : 123456
+[MD5] 482c811da5d5b4bc6d497ffa98491e38 : password123
+[SHA1] cbfdac6008f9cab4083784cbd1874f76618d2a97 : password123
+[MD5] 21232f297a57a5a743894a0e4a801fc3 : admin
+[SHA1] d033e22ae348aeb5660fc2140aec35850c4da997 : admin
+[MD5] 0d107d09f5bbe40cade3de5c71e9e9b7 : letmein
+[MD5] d8578edf8458ce06fbc5bb76a58c5ca4 : qwerty
