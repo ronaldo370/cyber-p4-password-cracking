@@ -8,6 +8,12 @@ This project demonstrates how weak password hashes can be cracked using dictiona
 
 Due to system-level WSL/Docker issues, this project is implemented as a native Windows Python application.
 
+## 📸 Visual Documentation
+
+### Password Cracking Simulation
+Demonstrates a dictionary attack against MD5 and SHA1 hashes with real-time colored output.
+![Password Cracking](static/screenshots/cracker.png)
+
 ## 🛠️ Tools Used
 
 | Tool | Purpose |
